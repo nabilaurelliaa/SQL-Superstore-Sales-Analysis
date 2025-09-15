@@ -1,4 +1,4 @@
-# Superstore Sales Performance Analysis (SQL Portfolio Project)
+# Superstore Sales Performance Analysis (SQL Project)
 
 `SQL` `Data Analysis` `MariaDB` `Business Intelligence`
 
