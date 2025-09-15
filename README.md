@@ -27,7 +27,6 @@ The project follows a systematic data analysis workflow:
 2.  **Data Exploration & Cleaning**: Understanding the structure and verifying the initial data quality.
 3.  **Validation & Transformation**: Performing anomaly validation and feature engineering.
 4.  **Data Analysis & Findings**: Executing a series of SQL queries to answer key business questions.
-5.  **Recommendations**: Translating analytical findings into concrete business recommendations.
 
 ---
 ### 1. Database Setup
